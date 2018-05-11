@@ -1,0 +1,7 @@
+PROGRAMACION ORIENTADA A OBJETOS,
+
+REDIFINIR OPERACIONRS
+
+SUMA DE STRINGS, O DATOS;
+TIPO DE DATO operator+( tipo de dato DATA);
+operator= // sobrecarga del operador =;
